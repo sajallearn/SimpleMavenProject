@@ -1,2 +1,2 @@
 # SimpleMavenProject
-This is a dummy maven project
+This is just a dummy maven project
